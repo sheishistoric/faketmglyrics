@@ -1,5 +1,6 @@
 FakeTMGLyrics Twitter Bot
 =========
+(fake) nice boys who make the rocking tunes. I only listen to @mountain_goats, and now I make up my own lyrics. 
 
 ABOUT
 -----
