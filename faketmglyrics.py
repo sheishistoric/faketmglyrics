@@ -18,7 +18,7 @@ my_first_text = tweetbot.generate_text(25, seedword=['you', 'I am', 'going to', 
 print("tweetbot says:")
 print(my_first_text)
 # Consumer Key (API Key)
-cons_key = 'IZPxQBf8zbMXSQWxms43YnyaA'
+cons_key = 'a'
 # Consumer Secret (API Secret)
 cons_secret = 'a'
 # Access Token
